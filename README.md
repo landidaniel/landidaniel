@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @landidaniel
-- 👀 I’m interested in  aprender mais sobre  sistemas de informação
-- 🌱 Atualmente estou aprendendo Python
-- 💞️ I’m looking to collaborate on projetos 
-- 📫 How to reach me landi_daniel@hotmail.com https://www.instagram.com/daniellandi1/
+- 👋 Oi, sou @landidaniel
+- 👀 Estou interessado em aprender mais sobre progamação
+- 🌱 Atualmente estou aprendendo linguagem Python
+- 💞️ Pretendo colaborar em projetos 
+- 📫 Pode me contatar em landi_daniel@hotmail.com
 
 <!---
 landidaniel/landidaniel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
