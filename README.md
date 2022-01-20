@@ -1,8 +1,8 @@
 - 👋 Oi, sou @landidaniel
-- 👀 Estou interessado em aprender mais sobre progamação
-- 🌱 Atualmente estou aprendendo linguagem Python
+- 👀 Estou interessado em aprender mais sobre programação
+- 🌱 Atualmente estou aprendendo a linguagem Python
 - 💞️ Pretendo colaborar em projetos 
-- 📫 Pode me contatar em landi_daniel@hotmail.com
+- 📫 Pode me contatar no landi_daniel@hotmail.com
 
 <!---
 landidaniel/landidaniel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
