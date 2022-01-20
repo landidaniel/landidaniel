@@ -1,5 +1,5 @@
 - 👋 Oi, sou @landidaniel
-- 👀 Estou interessado em aprender mais sobre programação
+- 👀 Estou interessado em aprender mais sobre programação e Sistemas de Informação
 - 🌱 Atualmente estou aprendendo a linguagem Python
 - 💞️ Pretendo colaborar em projetos 
 - 📫 Pode me contatar no landi_daniel@hotmail.com
