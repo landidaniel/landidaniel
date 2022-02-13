@@ -1,4 +1,4 @@
-- 👋 Oi, sou @landidaniel
-- 👀 Estou interessado em aprender mais sobre programação e Sistemas de Informação
-- 🌱 Atualmente estou aprendendo a linguagem Python e JavaScript
-- 📫 Pode me contatar no landi_daniel@hotmail.com
+- 👋 Oi, sou o @landidaniel
+- 👀 Um admnistrador aprendendo sobre programação e cursando Sistemas de Informação
+- 🌱 Atualmente estou aprendendo as linguagens Python e JavaScript
+- 📫 Pode me contatar no landi_daniel@hotmail.com ou no https://www.linkedin.com/in/daniel-landi/
