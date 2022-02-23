@@ -1,4 +1,4 @@
-- Olá, sou o @landidaniel
+- Olá, sou o Daniel Landi
 - Um admnistrador aprendendo sobre programação e cursando Sistemas de Informação
 - Atualmente estou aprendendo as linguagens JavaScript e Python
 - Pode me contatar no landi_daniel@hotmail.com ou no https://www.linkedin.com/in/daniel-landi/
