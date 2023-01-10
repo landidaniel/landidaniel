@@ -1,11 +1,10 @@
 ## Olá, sou o **Daniel Landi**
 - Um administrador aprendendo sobre programação e cursando Sistemas de Informação
 - Pode me contatar no landi_daniel@hotmail.com ou no https://www.linkedin.com/in/daniel-landi/
-
-<div align="left">
-  <a href="https://github.com/landidaniel">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=landidaniel&show_icons=true&theme=graywhite&include_all_commits=true&count_private=true"/>
+<div>
+ <a href="https://github.com/landidaniel/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=landidaniel&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Daniel's github stats" /></a>  <a href="https://github.com/landidaniel/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=landidaniel&layout=compact&theme=buefy&hide_border=true" /></a> 
 </div>
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Daniel-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Daniel-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
