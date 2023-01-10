@@ -2,7 +2,7 @@
 - Um administrador aprendendo sobre programação e cursando Sistemas de Informação
 - Pode me contatar no landi_daniel@hotmail.com ou no https://www.linkedin.com/in/daniel-landi/
 
-<div align="center">
+<div align="left">
   <a href="https://github.com/landidaniel">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=landidaniel&show_icons=true&theme=graywhite&include_all_commits=true&count_private=true"/>
 </div>
