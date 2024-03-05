@@ -1,6 +1,6 @@
-## Olá, sou o Daniel Landi
-- Um administrador aprendendo sobre programação e cursando Sistemas de Informação
-- Pode me contatar no landi_daniel@hotmail.com ou no https://www.linkedin.com/in/daniel-landi/
+## Hello, I'm Daniel Landi
+- An administrator learning about programming with a focus on Data Science and studying Information Systems
+- You can contact me at landi_daniel@hotmail.com or on https://www.linkedin.com/in/daniel-landi/
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Daniel-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
