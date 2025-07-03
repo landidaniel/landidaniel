@@ -1,5 +1,5 @@
 ## Hello, I'm Daniel Landi
-- An administrator learning about programming with a focus on Data Science and studying Information Systems
+- 🚀 Data Enthusiast | Python, SQL, Cloud | Building scalable data pipelines & insights.
 - You can contact me at landi_daniel@hotmail.com or on https://www.linkedin.com/in/daniel-landi/
 
 <div style="display: inline_block"><br>
